@@ -13,10 +13,10 @@
   <Support>https://github.com/snapetech/seerrng/issues</Support>
   <Project>https://github.com/snapetech/bookshelfng</Project>
   <TemplateURL>https://raw.githubusercontent.com/snapetech/bookshelfng-unraid/main/templates/bookshelfng.xml</TemplateURL>
-  <ReadMe>https://github.com/snapetech/bookshelfng-unraid/blob/main/README.md</ReadMe>
+  <ReadMe>https://github.com/snapetech/bookshelfng-unraid/blob/main/docs/installation.md</ReadMe>
   <Category>MediaApp:Books</Category>
   <ExtraSearchTerms>bookshelfng bookshelf readarr hardcover ebook audiobook seerrng</ExtraSearchTerms>
-  <Changes>Standalone optional companion template for SeerrNG.</Changes>
+  <Changes>Updated app installation guide. BookshelfNG runs independently with optional SeerrNG integration.</Changes>
   <Requires>Docker and persistent appdata. Configure this app independently before connecting it to SeerrNG.</Requires>
   <ExtraParams>--restart=unless-stopped</ExtraParams>
 
