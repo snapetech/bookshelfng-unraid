@@ -4,18 +4,11 @@ This repository publishes the standalone BookshelfNG Unraid Docker template.
 BookshelfNG is a Snapetech NG fork of Bookshelf for ebook and audiobook library
 management and acquisition. It works independently; SeerrNG integration is optional.
 
-## Community Apps submission
-
-Submit this repository URL: https://github.com/snapetech/bookshelfng-unraid
-
-Run Validate and Scan, then submit for review. The application source repository
-contains unrelated XML test fixtures and should not be submitted as a template
-repository. This repository contains one app XML and its repository profile.
-
 ## Installation and setup
 
-Use the BookshelfNG entry once it is published in Community Apps. For a manual
-install, use [the template XML](templates/bookshelfng.xml) with Unraid's Docker
+In Unraid, open **Apps**, search for **BookshelfNG**, and select **Install** on
+[the BookshelfNG listing](https://ca.unraid.net/apps/bookshelfng-1fdcqrv18pja7r).
+For a manual install, use [the template XML](templates/bookshelfng.xml) with Unraid's Docker
 template workflow. The image is `ghcr.io/snapetech/bookshelfng:hardcover`.
 
 - Map persistent appdata to `/config` and your media to `/data`.
