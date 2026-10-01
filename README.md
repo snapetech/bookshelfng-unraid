@@ -1,8 +1,9 @@
 # BookshelfNG for Unraid
 
 This repository publishes the standalone BookshelfNG Unraid Docker template.
-BookshelfNG is a Snapetech NG fork of Bookshelf for ebook and audiobook library
-management and acquisition. It works independently; SeerrNG integration is optional.
+**Built on .NET 10 LTS**, BookshelfNG is a Snapetech NG fork of Bookshelf for
+ebook and audiobook library management and acquisition. It works independently;
+SeerrNG integration is optional.
 
 ## Installation and setup
 
